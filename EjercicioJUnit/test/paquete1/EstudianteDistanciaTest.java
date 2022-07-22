@@ -120,7 +120,7 @@ public class EstudianteDistanciaTest {
         double expResult = 10.0;
         double result = instance.obtenerMatriculaDistancia();
         assertEquals(expResult, result, 0.0);
-        
+     //cambio para subir   
     }
     
 }
